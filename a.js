@@ -1,1 +1,1 @@
-<img src='#' onerror=alert(1) />
+alert("XSS detected!");
