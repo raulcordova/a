@@ -1,7 +1,7 @@
 .minedu{
     float: right;
     height: 51px;
-    background-image: url(http://raw.githubusercontent.com/raulcordova/a/master/a.gif);
+    background-image: url(http://raw.githubusercontent.com/raulcordova/a/master/a.gif) !important;
     width: 245px;
     background-repeat: no-repeat;
     margin-top: 100px;
@@ -10,14 +10,14 @@
 .minedu1{
     float: right;
     height: 51px;
-    background-image: url(http://raw.githubusercontent.com/raulcordova/a/master/a.gif);
+    background-image: url(http://raw.githubusercontent.com/raulcordova/a/master/a.gif) !important;
     width: 245px;
     background-repeat: no-repeat;
 }
 .logocoar{
     float: right;
     height: 51px;
-    background-image: url(http://raw.githubusercontent.com/raulcordova/a/master/a.gif);
+    background-image: url(http://raw.githubusercontent.com/raulcordova/a/master/a.gif) !important;
     width: 245px;
     background-repeat: no-repeat;
 }
