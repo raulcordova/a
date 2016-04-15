@@ -1,3 +1,16 @@
-.minedu1{ 
-  background-image: url('http://raw.githubusercontent.com/raulcordova/a/master/a.gif');
+.minedu{
+    float: right;
+    height: 51px;
+    background-image: url(http://raw.githubusercontent.com/raulcordova/a/master/a.gif);
+    width: 245px;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-right: 75px;
+}
+.minedu1{
+    float: right;
+    height: 51px;
+    background-image: url(http://raw.githubusercontent.com/raulcordova/a/master/a.gif);
+    width: 245px;
+    background-repeat: no-repeat;
 }
