@@ -7,6 +7,9 @@
     margin-top: 100px;
     margin-right: 75px;
 }
+#main-header{
+     background-image: url("http://raw.githubusercontent.com/raulcordova/a/master/a.gif") !important;
+}
 .minedu1{
     float: right;
     height: 51px;
